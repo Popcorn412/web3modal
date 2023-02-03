@@ -1,0 +1,10 @@
+dist/
+dist
+/node_modules/
+/.vscode/
+.DS_Store
+.env
+.next
+out
+lerna-debug.log
+.env.local
