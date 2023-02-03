@@ -1,8 +1,0 @@
-node_modules
-dist
-.next
-.github
-.vscode
-_next
-out
-lerna.json
